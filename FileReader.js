@@ -4,8 +4,8 @@ class FileReader {
         this.data= "";
     }
     getData(file) {
-        let data = fs.readFileSync(file);
-        return data;
+        
+        return fs.readFileSync(file).toString();
     }
 }
 
