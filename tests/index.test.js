@@ -1,4 +1,4 @@
-const index = require("./index.js");
+const index = require("../index");
 
 describe('The populatron', () => {
   it('should print the world population', () => {

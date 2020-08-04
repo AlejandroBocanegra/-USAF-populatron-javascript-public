@@ -1,4 +1,4 @@
-const csvParser = require("./csvParser.js");
+const CsvParser = require("../CsvParser");
 
 describe('', () => {
     it('', () => {

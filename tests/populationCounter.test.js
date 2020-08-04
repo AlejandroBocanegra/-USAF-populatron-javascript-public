@@ -1,4 +1,4 @@
-const populationCounter = require("./populationCounter.js");
+const PopulationCounter = require("../PopulationCounter");
 
 describe('', () => {
     it('', () => {
